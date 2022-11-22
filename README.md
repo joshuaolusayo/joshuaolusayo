@@ -64,6 +64,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
  ​![​Joshua's GitHub stats​](https://github-readme-stats.vercel.app/api?username=joshuaolusayo&show_icons=true&theme=dark&show_icons=true&count_private=true&bg_color=000000)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaolusayo&layout=compact&theme=vision-friendly-dark&langs)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaolusayo&layout=compact&theme=vision-friendly-dark&langs)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---
