@@ -32,7 +32,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m a full-stack Software Engineer.
 
-- :seedling: Exploring DevOps Engineering and a bit of Data Science.
+[//]: # (- :seedling: Exploring DevOps Engineering and a bit of Data Science.)
 
 - :zap: In my free time, I read tech articles and also play Piano.
 
